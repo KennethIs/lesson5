@@ -1,0 +1,1 @@
+print('KennethQuizhpi' * 1000)
